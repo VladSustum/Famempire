@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Famempire/static/css/main.c4f609cf.chunk.css",
+    "main.js": "/Famempire/static/js/main.d34e9f45.chunk.js",
+    "main.js.map": "/Famempire/static/js/main.d34e9f45.chunk.js.map",
+    "runtime-main.js": "/Famempire/static/js/runtime-main.307ac7ea.js",
+    "runtime-main.js.map": "/Famempire/static/js/runtime-main.307ac7ea.js.map",
+    "static/js/2.4c8686dc.chunk.js": "/Famempire/static/js/2.4c8686dc.chunk.js",
+    "static/js/2.4c8686dc.chunk.js.map": "/Famempire/static/js/2.4c8686dc.chunk.js.map",
+    "index.html": "/Famempire/index.html",
+    "static/css/main.c4f609cf.chunk.css.map": "/Famempire/static/css/main.c4f609cf.chunk.css.map",
+    "static/js/2.4c8686dc.chunk.js.LICENSE.txt": "/Famempire/static/js/2.4c8686dc.chunk.js.LICENSE.txt",
+    "static/media/3d-modeling.fafe05dd.svg": "/Famempire/static/media/3d-modeling.fafe05dd.svg",
+    "static/media/App.css": "/Famempire/static/media/img-2.bb238fc1.jpg",
+    "static/media/paint-palette.6e40bf98.svg": "/Famempire/static/media/paint-palette.6e40bf98.svg",
+    "static/media/photo.2dd3e2ce.svg": "/Famempire/static/media/photo.2dd3e2ce.svg",
+    "static/media/HeroSection.css": "/Famempire/static/media/poz2.fe298b33.jpg",
+    "static/media/stock.26fc5e08.svg": "/Famempire/static/media/stock.26fc5e08.svg",
+    "static/media/web-development.15d6bd08.svg": "/Famempire/static/media/web-development.15d6bd08.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.307ac7ea.js",
+    "static/js/2.4c8686dc.chunk.js",
+    "static/css/main.c4f609cf.chunk.css",
+    "static/js/main.d34e9f45.chunk.js"
+  ]
+}
