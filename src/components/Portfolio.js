@@ -11,11 +11,12 @@ function Portfolio() {
         <div className='cards__wrapper'>
           <p className='hh'>3D Modeli</p>
           <ul className='cards__items'>
+          <a href="http://www.google.com" target="_blank">
             <Portfolios
               src='images/1.jpg'
               
             />
-            <a href="http://www.google.com" target="_blank"></a>
+             </a>
             <Portfolios
               src='images/2.jpg'
               
