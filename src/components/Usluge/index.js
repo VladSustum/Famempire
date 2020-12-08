@@ -9,12 +9,12 @@ import {ServicesContainer,ServiceCard2, ServicesH1, ServicesWrapper,ServiceIcon,
 const Usluge = () => {
     return (
        <ServicesContainer id="services">
-           <ServicesH1>Nase Usluge</ServicesH1>
+           <ServicesH1>Naše Usluge</ServicesH1>
            <ServicesWrapper>
                <ServiceCard>
                    <ServiceIcon src={Icon1}/>
                    <ServicesH2>Digitalni Marketing</ServicesH2>
-                   <ServicesP>Pomažemo vam pri targetiranju i vođenju kampanje marketinga na drustvenim mrezama 
+                   <ServicesP>Pomažemo vam pri targetiranju i vođenju kampanje marketinga na društvenim mrezama 
                        ali takođe smo tu i za SEO marketing.</ServicesP>
                </ServiceCard>
                <ServiceCard>
@@ -24,7 +24,7 @@ const Usluge = () => {
                </ServiceCard>
                <ServiceCard>
                    <ServiceIcon src={Icon3}/>
-                   <ServicesH2>Graficki dizajn</ServicesH2>
+                   <ServicesH2>Grafički dizajn</ServicesH2>
                    <ServicesP>Tu smo da uradimo dizajn za bilo kakvu traženu podlogu. Logo dizajn,Vizit-karte, Bilbordi, Posteri, Časopisi...</ServicesP>
                </ServiceCard>
                <ServiceCard>
@@ -35,10 +35,10 @@ const Usluge = () => {
                <ServiceCard>
                    <ServiceIcon src={Icon5}/>
                    <ServicesH2>Web development</ServicesH2>
-                   <ServicesP>U slucaju ne posedovanja sajta kao osnovne potrepštine današnjeg poslovanja , tu smo da vam rešimo i taj problem.</ServicesP>
+                   <ServicesP>U slučaju ne posedovanja sajta kao osnovne potrepštine današnjeg poslovanja , tu smo da vam rešimo i taj problem.</ServicesP>
                </ServiceCard>   
                <ServiceCard2>
-                   <ServicesP2><ServicePa><p>Tu smo da vam pružimo usluge na zahtev ili da izgradimo ceo plan uspona vaseg brenda!</p></ServicePa></ServicesP2>
+                   <ServicesP2><ServicePa><p>Tu smo da vam pružimo usluge na zahtev ili da izgradimo ceo plan uspona Vašeg brenda!</p></ServicePa></ServicesP2>
                </ServiceCard2>
            </ServicesWrapper>
        </ServicesContainer>
