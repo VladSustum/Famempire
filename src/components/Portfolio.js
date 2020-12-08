@@ -12,7 +12,7 @@ import Slika6 from '../images/6.jpg'
 function Portfolio() {
   return (
     <div className='cards'>
-      <h1>Neki od nasih radova</h1>
+      <h1>Neki od naših radova</h1>
       <div className='cards__container'>
         <div className='cards__wrapper'>
           <p className='hh'>3D Modeli</p>
