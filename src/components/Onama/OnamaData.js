@@ -12,7 +12,7 @@ export const homeObjOne = {
             savremenog marketinga kroz posvecenost,znanje i kreativnost naseg tima.</li><br></br><li>U cilju nam je da stvorimo prepoznatljive brendove i da ga zajedno popnemo do vrha!</li><li>Uz to da smo u stalnom kontaktu sa vama pruzamo vam punu transparentnost prilikom izvodjenja
                  radova jer pre svega nam je bitno poverenje i zadovoljstvo klijenta.</li><br></br></ul>,
     imgStart: true,
-    img: "/src/images/team.png",
+    img: "images/team.png",
     alt: "Slika",
     darkText: true,
 };
