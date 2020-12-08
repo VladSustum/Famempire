@@ -3,6 +3,11 @@ import './Portfolio.css'
 import Portfolios from './Portfolios';
 import ReactPlayer from 'react-player'
 import Slika1 from '../images/1.jpg'
+import Slika2 from '../images/2.jpg'
+import Slika3 from '../images/3.jpg'
+import Slika4 from '../images/4.jpg'
+import Slika5 from '../images/5.jpg'
+import Slika6 from '../images/6.jpg'
 
 function Portfolio() {
   return (
@@ -17,12 +22,12 @@ function Portfolio() {
               
             />
             <Portfolios
-              src='images/2.jpg'
+              src={Slika2}
               
               
             />
             <Portfolios
-              src='images/3.png'
+              src={Slika3}
              
               
             />
@@ -30,17 +35,17 @@ function Portfolio() {
           <p className='hh'>Graficki dizajn</p>
           <ul className='cards__items'>
             <Portfolios
-              src='images/4.jpg'
+              src={Slika4}
               
            
             />
             <Portfolios
-              src='images/5.jpg'
+              src={Slika5}
               
          
             />
             <Portfolios
-              src='images/6.jpg'
+              src={Slika6}
             />
           </ul>
           <p className='hh'>Reklame</p>
