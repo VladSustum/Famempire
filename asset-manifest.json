@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Famempire/static/css/main.c4f609cf.chunk.css",
-    "main.js": "/Famempire/static/js/main.076aeac0.chunk.js",
-    "main.js.map": "/Famempire/static/js/main.076aeac0.chunk.js.map",
+    "main.css": "/Famempire/static/css/main.a0eb2293.chunk.css",
+    "main.js": "/Famempire/static/js/main.a9e45189.chunk.js",
+    "main.js.map": "/Famempire/static/js/main.a9e45189.chunk.js.map",
     "runtime-main.js": "/Famempire/static/js/runtime-main.307ac7ea.js",
     "runtime-main.js.map": "/Famempire/static/js/runtime-main.307ac7ea.js.map",
     "static/js/2.4c8686dc.chunk.js": "/Famempire/static/js/2.4c8686dc.chunk.js",
     "static/js/2.4c8686dc.chunk.js.map": "/Famempire/static/js/2.4c8686dc.chunk.js.map",
     "index.html": "/Famempire/index.html",
-    "static/css/main.c4f609cf.chunk.css.map": "/Famempire/static/css/main.c4f609cf.chunk.css.map",
+    "static/css/main.a0eb2293.chunk.css.map": "/Famempire/static/css/main.a0eb2293.chunk.css.map",
     "static/js/2.4c8686dc.chunk.js.LICENSE.txt": "/Famempire/static/js/2.4c8686dc.chunk.js.LICENSE.txt",
+    "static/media/1.2690225e.jpg": "/Famempire/static/media/1.2690225e.jpg",
     "static/media/3d-modeling.a97767a4.svg": "/Famempire/static/media/3d-modeling.a97767a4.svg",
-    "static/media/App.css": "/Famempire/static/media/img-2.bb238fc1.jpg",
     "static/media/paint-palette.6e40bf98.svg": "/Famempire/static/media/paint-palette.6e40bf98.svg",
     "static/media/photo.2dd3e2ce.svg": "/Famempire/static/media/photo.2dd3e2ce.svg",
     "static/media/HeroSection.css": "/Famempire/static/media/poz2.fe298b33.jpg",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.307ac7ea.js",
     "static/js/2.4c8686dc.chunk.js",
-    "static/css/main.c4f609cf.chunk.css",
-    "static/js/main.076aeac0.chunk.js"
+    "static/css/main.a0eb2293.chunk.css",
+    "static/js/main.a9e45189.chunk.js"
   ]
 }
