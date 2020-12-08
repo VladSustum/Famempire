@@ -2,6 +2,7 @@ import React from 'react';
 import './Portfolio.css'
 import Portfolios from './Portfolios';
 import ReactPlayer from 'react-player'
+import Slika1 from '../../images/1.jpg'
 
 function Portfolio() {
   return (
@@ -11,12 +12,10 @@ function Portfolio() {
         <div className='cards__wrapper'>
           <p className='hh'>3D Modeli</p>
           <ul className='cards__items'>
-          <a href="http://www.google.com" target="_blank">
             <Portfolios
-              src='images/1.jpg'
+              src={Slika1}
               
             />
-             </a>
             <Portfolios
               src='images/2.jpg'
               
