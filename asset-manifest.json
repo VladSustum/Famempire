@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Famempire/static/css/main.c4f609cf.chunk.css",
-    "main.js": "/Famempire/static/js/main.d34e9f45.chunk.js",
-    "main.js.map": "/Famempire/static/js/main.d34e9f45.chunk.js.map",
+    "main.js": "/Famempire/static/js/main.b5c57212.chunk.js",
+    "main.js.map": "/Famempire/static/js/main.b5c57212.chunk.js.map",
     "runtime-main.js": "/Famempire/static/js/runtime-main.307ac7ea.js",
     "runtime-main.js.map": "/Famempire/static/js/runtime-main.307ac7ea.js.map",
     "static/js/2.4c8686dc.chunk.js": "/Famempire/static/js/2.4c8686dc.chunk.js",
@@ -10,7 +10,7 @@
     "index.html": "/Famempire/index.html",
     "static/css/main.c4f609cf.chunk.css.map": "/Famempire/static/css/main.c4f609cf.chunk.css.map",
     "static/js/2.4c8686dc.chunk.js.LICENSE.txt": "/Famempire/static/js/2.4c8686dc.chunk.js.LICENSE.txt",
-    "static/media/3d-modeling.fafe05dd.svg": "/Famempire/static/media/3d-modeling.fafe05dd.svg",
+    "static/media/3d-modeling.a97767a4.svg": "/Famempire/static/media/3d-modeling.a97767a4.svg",
     "static/media/App.css": "/Famempire/static/media/img-2.bb238fc1.jpg",
     "static/media/paint-palette.6e40bf98.svg": "/Famempire/static/media/paint-palette.6e40bf98.svg",
     "static/media/photo.2dd3e2ce.svg": "/Famempire/static/media/photo.2dd3e2ce.svg",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.307ac7ea.js",
     "static/js/2.4c8686dc.chunk.js",
     "static/css/main.c4f609cf.chunk.css",
-    "static/js/main.d34e9f45.chunk.js"
+    "static/js/main.b5c57212.chunk.js"
   ]
 }
