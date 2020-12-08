@@ -14,31 +14,31 @@ const Usluge = () => {
                <ServiceCard>
                    <ServiceIcon src={Icon1}/>
                    <ServicesH2>Digitalni Marketing</ServicesH2>
-                   <ServicesP>Pomazemo vam pri targetiranju i vodjenju kampanje marketinga na drustvenim mrezama 
-                       ali takodje smo tu i za SEO marketing.</ServicesP>
+                   <ServicesP>Pomažemo vam pri targetiranju i vođenju kampanje marketinga na drustvenim mrezama 
+                       ali takođe smo tu i za SEO marketing.</ServicesP>
                </ServiceCard>
                <ServiceCard>
                    <ServiceIcon src={Icon2}/>
                    <ServicesH2>Video Reklame</ServicesH2>
-                   <ServicesP>Nas kreativni tim iz ovog odeljaka je tu da vam snimi i edituje video reklamu sa punom opremo za snimanje ukljucujuci i dron.</ServicesP>
+                   <ServicesP>Naš kreativni tim iz ovog odeljka je tu da vam snimi i edituje video reklamu sa punom opremo za snimanje uključujući i dron.</ServicesP>
                </ServiceCard>
                <ServiceCard>
                    <ServiceIcon src={Icon3}/>
                    <ServicesH2>Graficki dizajn</ServicesH2>
-                   <ServicesP>Tu smo da uradimo dizajn za bilo kakvu trazeno podlogu. Logo dizajn,Vizit-karte, Bilbordi, Posteri, Casopisi...</ServicesP>
+                   <ServicesP>Tu smo da uradimo dizajn za bilo kakvu traženu podlogu. Logo dizajn,Vizit-karte, Bilbordi, Posteri, Časopisi...</ServicesP>
                </ServiceCard>
                <ServiceCard>
                    <ServiceIcon src={Icon4}/>
                    <ServicesH2>3D modeling</ServicesH2>
-                   <ServicesP>U stanju smo da napravimo 3D projekciju ili virtuelnu reklamu vaseg proizvoda gde ce biti prikazana funkcija, sadrzaj i kvalitet proizvoda.</ServicesP>
+                   <ServicesP>U stanju smo da napravimo 3D projekciju ili virtuelnu reklamu vašeg proizvoda gde će biti prikazana funkcija, sadržaj i kvalitet proizvoda.</ServicesP>
                </ServiceCard>
                <ServiceCard>
                    <ServiceIcon src={Icon5}/>
                    <ServicesH2>Web development</ServicesH2>
-                   <ServicesP>U slucaju ne posedovanja sajta kao osnovne potrepstine danasnjeg poslovanja , tu smo da vam resimo i taj problem.</ServicesP>
+                   <ServicesP>U slucaju ne posedovanja sajta kao osnovne potrepštine današnjeg poslovanja , tu smo da vam rešimo i taj problem.</ServicesP>
                </ServiceCard>   
                <ServiceCard2>
-                   <ServicesP2><ServicePa><p>Tu smo da vam pruzimo usluge na zahtev ili da izgradimo ceo plan uspona vaseg brenda!</p></ServicePa></ServicesP2>
+                   <ServicesP2><ServicePa><p>Tu smo da vam pružimo usluge na zahtev ili da izgradimo ceo plan uspona vaseg brenda!</p></ServicePa></ServicesP2>
                </ServiceCard2>
            </ServicesWrapper>
        </ServicesContainer>
