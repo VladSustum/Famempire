@@ -2,7 +2,7 @@ import React from 'react';
 import './Portfolio.css'
 import Portfolios from './Portfolios';
 import ReactPlayer from 'react-player'
-import Slika1 from '../../images/1.jpg'
+import Slika1 from '../../images/stock.svg'
 
 function Portfolio() {
   return (
