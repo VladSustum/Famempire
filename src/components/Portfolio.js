@@ -4,7 +4,7 @@ import Portfolios from './Portfolios';
 import ReactPlayer from 'react-player'
 import Slika1 from '../images/1.jpg'
 import Slika2 from '../images/2.jpg'
-import Slika3 from '../images/3.jpg'
+import Slika3 from '../images/3.png'
 import Slika4 from '../images/4.jpg'
 import Slika5 from '../images/5.jpg'
 import Slika6 from '../images/6.jpg'
