@@ -15,6 +15,7 @@ function Portfolio() {
               src='images/1.jpg'
               
             />
+            <a href="http://www.google.com" target="_blank"></a>
             <Portfolios
               src='images/2.jpg'
               
@@ -39,7 +40,7 @@ function Portfolio() {
          
             />
             <Portfolios
-              src='/images/6.jpg'
+              src='images/6.jpg'
             />
           </ul>
           <p className='hh'>Reklame</p>
