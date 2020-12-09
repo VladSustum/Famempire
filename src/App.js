@@ -1,12 +1,19 @@
 import react from 'react';
 import './App.css';
-import {BrowserRouter as Router, Switch, Route} from 'react-router-dom'
+import {BrowserRouter as Router, Switch, Route, useLocation} from 'react-router-dom'
 import Navbar from './components/Navbar';
 import Home from './components/pages/Home';
 import Portfolio from './components/Portfolio';
 import Onama from './components/Onama'
 import Kontakt from './components/Kontakt/Kontakt';
 import Usluge from './components/Usluge';
+
+const NoMatch = () => {
+  const { pathname } = useLocation()
+
+  return <h1>No match for <code>{pathname}</code></h1>
+
+}
 
 function App() {
   return (
@@ -20,6 +27,7 @@ function App() {
        <Route path='/onama'  component={Onama} />
        <Route path='/kontakt' component={Kontakt} />
        <Route path='/usluge' component={Usluge} />
+       <Route path='*' >NoMatch</Route>
      </Switch>
      </Router>
      </>
