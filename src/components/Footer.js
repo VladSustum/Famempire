@@ -6,7 +6,7 @@ function Footer() {
   return (
       <div className="footer-container">
           <div class='footer-logo'>
-            <Link to='/Famempire' className='social-logo'>
+            <Link to='/' className='social-logo'>
               FAMEMPIRE
                
             </Link>
