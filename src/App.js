@@ -27,7 +27,7 @@ function App() {
        <Route path='/onama'  component={Onama} />
        <Route path='/kontakt' component={Kontakt} />
        <Route path='/usluge' component={Usluge} />
-       <Route path='*' >NoMatch</Route>
+       <Route path='*' component={NoMatch} ></Route>
      </Switch>
      </HashRouter>
      </>
