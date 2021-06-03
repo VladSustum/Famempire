@@ -21,9 +21,9 @@ function Home(){
         // <>
 
         <div className="hero-container">
-        <h1>Radovi su u toku
-            Vraćamo se uskoro!!!
+        <h1>Radovi su u toku 
         </h1>
+        <h2>Vraćamo se uskoro!!!</h2>
         </div>
 
        
