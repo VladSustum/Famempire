@@ -17,10 +17,12 @@ function Home(){
         <Portfolio></Portfolio>
         <Kontakt/>
         <Footer></Footer> */}
-        <div className="hero-container"></div>
+
+
+        <div className="hero-container">
         <h1>Radovi u toku</h1>
         <h2>Vraćamo se uskoro!!</h2>
-        
+        </div>
 
         </>
 
