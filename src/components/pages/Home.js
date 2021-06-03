@@ -1,5 +1,6 @@
 import react from 'react'
 import '../../App.css';
+import '../pages/Home.css';
 import HeroSection from '../HeroSection';
 import Portfolio from '../Portfolio';
 import Onama from '../Onama'
