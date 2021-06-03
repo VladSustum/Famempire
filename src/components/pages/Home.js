@@ -11,13 +11,15 @@ import Kontakt from '../Kontakt/Kontakt';
 function Home(){
     return (
         <>
-        <HeroSection></HeroSection>
+        {/* <HeroSection></HeroSection>
         <Onama {...homeObjOne} />
         <Usluge/>
         <Portfolio></Portfolio>
         <Kontakt/>
-        <Footer></Footer>
-    
+        <Footer></Footer> */}
+        <div className="hero-container"></div>
+        <h1>Radovi u toku</h1>
+        <h2>Vraćamo se uskoro!!</h2>
         
 
         </>
